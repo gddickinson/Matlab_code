@@ -1,2 +1,2 @@
 # Matlab_code
- Random MATLAB and OCTAVE code
+ Various MATLAB and OCTAVE code samples used for testing
